@@ -21,6 +21,7 @@ Aqui ponemos mas cositas
 <table>
 <tr>
   <th>Posicion</th>
+  <th>Equipo</th>
   <th>Puntos</th
 </tr>
 <tr>
